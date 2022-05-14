@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "d=ql)s3_ofz+46&mt=5*ij(&yp18i8xp!j9+m6=(5631ba9ulr"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["https://ai-parking.herokuapp.com/"]
 # Application definition
 
 INSTALLED_APPS = [
