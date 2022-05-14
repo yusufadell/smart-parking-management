@@ -37,7 +37,6 @@ INSTALLED_APPS = [
 
     # 3rd party packages
     'crispy_forms',
-    'crispy_tailwind',
 
     'django.contrib.admin',
     'django.contrib.auth',
