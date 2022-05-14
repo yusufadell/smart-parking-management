@@ -18,4 +18,4 @@ xhtml2pdf==0.2.5
 gunicorn
 whitenoise
 django_heroku
-environ
+django-environ
