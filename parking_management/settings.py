@@ -34,7 +34,7 @@ SECRET_KEY = env.read_env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env('DEBUG')
 
-ALLOWED_HOSTS = ["ai-parking.herokuapp.com"]
+ALLOWED_HOSTS = ["ai-parking.herokuapp.com", "*"]
 # Application definition
 
 INSTALLED_APPS = [
