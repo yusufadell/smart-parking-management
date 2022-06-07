@@ -2,7 +2,7 @@
 
 ## Hosted at 
 
-https://babgee.pythonanywhere.com/
+https://ai-parking.herokuapp.com/
 
 Smart parking management is a web-based system with the following functionalities.
 1. Register new users.
